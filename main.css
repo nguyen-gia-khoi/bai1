@@ -1,0 +1,59 @@
+﻿
+.Main_menu {
+    Width: 760px;
+    Height: 50px;
+    background-color: red;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    line-height: 50px;
+}
+
+.Header {
+    Width: 760px;
+    Height: 150px;
+    background-color: blue;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    line-height: 150px;
+}
+
+.Content {
+    Width: 480px;
+    background-color: rgb(99, 186, 74);
+    height: 420px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    line-height: 420px;
+}
+
+.Side_bar {
+    Width: 280px;
+    background-color: rgb(82, 121, 66);
+    height: 420px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    line-height: 420px;
+}
+
+.Footers {
+    Width: 760px;
+    Height: 66px;
+    background-color: rgb(165, 113, 41);
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    line-height: 66px;
+}
+
+.info {
+    display: flex;
+}
